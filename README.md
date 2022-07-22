@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Vibhore Jain.
 
-- 🔭 I’m currently working on various **Web Development.**
+- 🔭 I’m currently working on **Web Development.**
 
 - 🌱 I’m Computer Science Engineeering student at SGSITS, Indore.
 
 - 📫 Email me : vibhore.jain.eng@gmail.com
 
-- 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Web Development**
+- 💬 Ask me about **Data Structures and Algorithms, Problem Solving, and Web Development**
 
 ### Languages and Tools I've worked with
 - C++
